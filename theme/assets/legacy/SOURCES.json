@@ -1,4 +1,61 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/sharinghistory-minisite.mjs, with every picture of the frame taken from legacy's exhibitions/AWE/.",
-  "files": {}
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Travelling (exhibitions/AWE/, exhibition 11), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_black_down.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
+      "sha256": "44fa258361791ca206a109bf7a0dbb67232454d6189b1b2f5ccbe4d9b8451926"
+    },
+    "theme/assets/legacy/arrow_black.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black.gif",
+      "sha256": "5661dc443e0d7fe73942af12ca805a1f582fd3cca8c57c43973bd445c0bd39bc"
+    },
+    "theme/assets/legacy/arrow_curator.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_curator.gif",
+      "sha256": "63d9b5a1294cc44ed3da1c31a4ea901eceb5edd90dcf235c11a80cdfa3e3f73a"
+    },
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/arrow_inner.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_inner.gif",
+      "sha256": "2852502cb00315dc06f1c537e017b0ebae7edcf3d9ab7d00d844e38a8e6bc039"
+    },
+    "theme/assets/legacy/arrow.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow.gif",
+      "sha256": "2d662d9b3b4b5acb013133d95beb3e2858ab1d49d1753829cb60df5ab79ea217"
+    },
+    "theme/assets/legacy/bg.png": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/bg.png",
+      "sha256": "72198d1b9e129bd2aa84e8f6e145caee55fd7387fe398c8aa92a37582b238b45"
+    },
+    "theme/assets/legacy/dash_dark_back.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/dash_dark_back.gif",
+      "sha256": "3cd6f91e832b3c7fd4956c9192609b5c29a60514237a4354a3582127230746fb"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/11/exhibition_bg.jpg",
+      "sha256": "8250a55f9ff57f9e19ad0960b7088fb7a8f9904b62981c62c4908e010759f096"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/11/home_bg.jpg",
+      "sha256": "c071e7aecfcb30711bb1c48dc885fd02ba43aab9bd8d97833383705876ea3948"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/11/intro_bg.jpg",
+      "sha256": "f2bbd614d796b51620f3e8adbb7d9d3fcb6904eb33b47fb1b2fc8d5a11627f12"
+    },
+    "theme/assets/legacy/magnify.png": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
+      "sha256": "be2c7473c776f954b85f74a6917fb94e5dfdc2f5725d923ec511f853023dcb8a"
+    },
+    "theme/assets/legacy/mwnfLogoShExIn-en.png": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/mwnfLogoShExIn-en.png",
+      "sha256": "85fd60b0d598fdfd50d75824465f4e91c09a85104a6295df1294e9aad32c31fb"
+    },
+    "theme/assets/legacy/print.gif": {
+      "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/print.gif",
+      "sha256": "0e539c7a8492e8dbb5525a839196dd7618f69128257dfb70de31729e5b23e2b1"
+    }
+  }
 }

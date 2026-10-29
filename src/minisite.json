@@ -1,7 +1,84 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/sharinghistory-minisite.mjs",
+  "legacy": "https://sharinghistory.museumwnf.org/exhibitions/AWE/exh_items.php?eId=11",
   "family": "SH",
-  "eId": 0,
-  "profiles": [],
-  "partnerLinks": {}
+  "eId": 11,
+  "profiles": [
+    {
+      "text": "Austria",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/ef43996d-b7a1-5a51-8b18-67d14626dfc3/fed6ec75-ac3d-5562-81b6-caeb7446eea2"
+    },
+    {
+      "text": "Egypt",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/bb251210-47fa-5aa3-b296-b39c2652963f/9add0320-d6b8-5e05-b88f-82769d4104fa"
+    },
+    {
+      "text": "France",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/4823c250-e612-5339-8795-f5ddd810f331/6e5e08a0-ac17-54aa-8620-d6f04f29e697"
+    },
+    {
+      "text": "Greece",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/bc9a97f5-9edf-5d9c-bf8f-4cca75184e96/3959d308-4962-5adb-ba83-aa602cb86810"
+    },
+    {
+      "text": "Italy",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/bb43a467-c03a-5ca0-84c0-d86ee64556dc/5e1223af-571b-58f9-b500-129674d98985"
+    },
+    {
+      "text": "Jordan",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/dcaead3d-67f1-5bee-9a56-1b05bf6678d2/14de464f-3c92-51f7-b8ab-e4e0731e43b7"
+    },
+    {
+      "text": "Lebanon",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/58e8b9f4-8cc5-5d2f-b77e-f21b7ce01047/343d2799-2449-5edb-ae79-1ccf5a4afe21"
+    },
+    {
+      "text": "North Macedonia",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/bb70d13e-d0f7-5c48-b76b-b206232bd24f/f49e621d-f706-5af7-8f10-b58acc65c7d9"
+    },
+    {
+      "text": "Portugal",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/dac41958-3b02-59cb-994e-8a8536f49c91/3572a06c-f05a-5a40-b494-da57398cf08c"
+    },
+    {
+      "text": "Qatar",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/5b10df78-2617-5b51-afa8-ff1047ad9ae2/f3abf576-c362-5529-acfc-76ca5ea34f35"
+    },
+    {
+      "text": "Romania",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/6ac9a595-2814-56f2-9896-8745770060c1/db0ba428-6648-515a-ba7b-ecad03218257"
+    },
+    {
+      "text": "Saudi Arabia",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/0c32b757-fae5-51ab-bb4d-023a986fedd2/14483bf6-e6bb-55af-beaa-7d7ce46f3dfc"
+    },
+    {
+      "text": "Serbia",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/9a84995e-edb8-5b22-81f9-7876d6e4eb0f/3f1e8a36-ad7a-516e-8cfc-08a086f504a1"
+    },
+    {
+      "text": "Spain",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/4670315c-522a-5313-8ac7-b4c15b27a6aa/1282f991-d34d-5b88-9294-65b755ae7bd3"
+    },
+    {
+      "text": "Tunisia",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/2d7f3d14-462f-5dce-84ac-d2128dd59cec/bc9a3b42-b2dc-5efb-9f94-52134bb1076a"
+    },
+    {
+      "text": "Türkiye",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/4e992412-a1be-5df4-8839-e2270dab9344/54d389ab-68ad-5a96-a294-f8a099706201"
+    },
+    {
+      "text": "United Arab Emirates (Sharjah)",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/2a8a5870-c4ff-5a65-a769-359f5994b90e/29fae78e-c935-5cec-b311-34d95ec35efa"
+    },
+    {
+      "text": "United Kingdom",
+      "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
+    }
+  ],
+  "partnerLinks": {
+    "https://sharinghistory.museumwnf.org/pm_partner.php?id=AT_01;at&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/a3753de5-842a-5f0b-a8c7-50bb2e312ce6",
+    "https://sharinghistory.museumwnf.org/pm_partner.php?id=QT_01;qt&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/38b8a503-bba9-5234-b7db-0bbb2a054c57",
+    "https://sharinghistory.museumwnf.org/pm_partner.php?id=UA_01;ua&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/64c2796c-d403-5a23-958e-760dfdfdff22"
+  }
 }
