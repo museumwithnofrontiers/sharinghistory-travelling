@@ -1,5 +1,5 @@
 {
-  "name": "__DATASET__",
+  "name": "sharinghistory-travelling",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,10 +13,10 @@
   },
   "viewerI18n": {
     "class": "minisiteSharingHistory",
-    "namespace": "__SITE_NAMESPACE__"
+    "namespace": "travelling"
   },
   "dependencies": {
-    "@museumwnf/__DATASET__-data": "0.0.0-REPLACE-ME",
+    "@museumwnf/sharinghistory-travelling-data": "^1.0.1",
     "@museumwnf/viewer-core": "^2.10.0",
     "@museumwnf/viewer-i18n": "^6.4.0",
     "@museumwnf/viewer-layout": "^3.13.0",
