@@ -16,7 +16,7 @@
     "namespace": "travelling"
   },
   "dependencies": {
-    "@museumwnf/sharinghistory-travelling-data": "^1.0.3",
+    "@museumwnf/sharinghistory-travelling-data": "^1.0.4",
     "@museumwnf/viewer-core": "^2.15.0",
     "@museumwnf/viewer-i18n": "^6.5.0",
     "@museumwnf/viewer-layout": "^3.59.0",
