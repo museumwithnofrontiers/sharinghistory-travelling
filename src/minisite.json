@@ -76,6 +76,23 @@
       "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
     }
   ],
+  "logos": [
+    {
+      "image": "legacy/logos/item_logo_111.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=AT_01;at&shpro=AWE&",
+      "tip": "Kunsthistorisches Museum, Vienna, Austria"
+    },
+    {
+      "image": "legacy/logos/item_logo_211.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=QT_01;qt&shpro=AWE&",
+      "tip": "Qatar Museums, Doha, Qatar"
+    },
+    {
+      "image": "legacy/logos/item_logo_311.jpg",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=UA_01;ua&shpro=AWE&",
+      "tip": "Sharjah Museums Authority, Sharjah, United Arab Emirates (Sharjah)"
+    }
+  ],
   "partnerLinks": {
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=AT_01;at&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/a3753de5-842a-5f0b-a8c7-50bb2e312ce6",
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=QT_01;qt&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/38b8a503-bba9-5234-b7db-0bbb2a054c57",

@@ -55,9 +55,11 @@ export default {
   // The footer menu lists the parent site's country profiles (`profiles`).
   navigation: sharinghistoryNavigation({ languages: languageLabels(languages), parent, profiles: exhibition.profiles }),
 
-  // The partners' logos lead to the parent's partner pages (`partnerLinks`,
-  // by legacy's address).
-  minisite: sharinghistorySettings({ parent, partnerLinks: exhibition.partnerLinks }),
+  // The partners' logos are this website's own (`logos`: each file under
+  // theme/assets/legacy/logos/, legacy's link and tooltip, inventory-app#2463)
+  // and lead to the parent's partner pages (`partnerLinks`, by legacy's
+  // address).
+  minisite: sharinghistorySettings({ parent, logos: exhibition.logos, partnerLinks: exhibition.partnerLinks }),
 
   views: { home: SharingHistoryHome },
 
